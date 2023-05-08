@@ -1,0 +1,11 @@
+OOP :
+Object-oriented programming is a model that provides different types of concepts, such as inheritance, abstraction, polymorphism, etc. These concepts aim to implement real-world entities in programs, and they create working methods and variables to reuse them without compromising security
+OOP concepts are:
+Objects
+Classes
+Object 
+Class
+Abstraction
+Inheritance 
+Polymorphism
+Encapsulation
